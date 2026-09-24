@@ -1,10 +1,10 @@
 //FONTS
-// ici sont chargé les fonts
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+// Chargez vos fontes ici
 
 // TOOLS
 // mixins et fonctions utilisés globalement dans le SCSS (Sass)
 @import 'tools/typo';
+
 // SETTINGS
 // Contient les variables sur les polices, les définitions de couleurs, les définitions de  grandeurs,   etc.
 @import 'settings/colors';

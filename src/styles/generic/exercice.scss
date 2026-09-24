@@ -79,7 +79,7 @@ $z_color-primary: tomato;
         position: relative !important;
 
         .z_card_num {
-            color: var(--color-black) !important;
+            color: $z_color-black !important;
             position: relative !important;
 
             &::after {
